@@ -90,8 +90,3 @@ streamlit run <folder>/app.py
 2. Work through the numbered folders in order.
 3. Explore the project folders (`10_*`, `11_*`) to see complete end-to-end examples.
 
-## Notes
-
-This course is designed for quick learning and practical application of agentic AI techniques.
-
-Codebasics Inc all rights reserved
